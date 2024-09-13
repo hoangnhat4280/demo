@@ -21,3 +21,4 @@ function score() {
     document.getElementById("result").innerHTML = content;
 }
 
+
